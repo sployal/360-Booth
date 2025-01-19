@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_play_arrow_24.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_play_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_account_circle.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_account_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_keyboard_arrow_right.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_keyboard_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.a360booth.app-release-31:/layout_activity_main.xml.flat",
+        "source": "com.example.a360booth.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\layout_activity_email_credentials.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\layout\\activity_email_credentials.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_arrow_back_ios.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_arrow_back_ios.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_attach_email_24.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_attach_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_mark_email_read.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_mark_email_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_keyboard_arrow_left.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_keyboard_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\drawable_rounded_pause_24.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\drawable\\rounded_pause_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-release-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Davie\\.gradle\\daemon\\8.7\\com.example.a360booth.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

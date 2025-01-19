@@ -1,0 +1,125 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5E7191">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:background="#574093"
+        android:elevation="4dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:gravity="center_vertical"
+        android:contentInsetStartWithNavigation="0dp">
+
+        <ImageView
+            android:id="@+id/accountImageView"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="start"
+            android:src="@drawable/rounded_account_circle" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="360 Booth"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:layout_marginEnd="16dp"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/textViewRecentVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:layout_centerHorizontal="true"
+        android:text="Recent Video 🎥"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"/>
+
+    <FrameLayout
+        android:id="@+id/videoFrame"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@id/textViewRecentVideo"
+        android:layout_margin="5dp">
+
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" />
+
+        <!-- ProgressBar added inside FrameLayout to overlay on the VideoView -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+
+        <!-- Play icon -->
+        <ImageView
+            android:id="@+id/playIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:src="@drawable/rounded_play_arrow_24"
+            android:visibility="gone" />
+
+        <!-- Pause icon -->
+        <ImageView
+            android:id="@+id/pauseIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:src="@drawable/rounded_pause_24"
+            android:visibility="gone" />
+
+        <!-- Left arrow icon for previous video -->
+        <ImageView
+            android:id="@+id/prevVideoIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center_vertical|start"
+            android:src="@drawable/rounded_keyboard_arrow_left"
+            android:visibility="gone"
+            android:layout_marginStart="16dp" />
+
+        <!-- Right arrow icon for next video -->
+        <ImageView
+            android:id="@+id/nextVideoIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center_vertical|end"
+            android:src="@drawable/rounded_keyboard_arrow_right"
+            android:visibility="gone"
+            android:layout_marginEnd="16dp" />
+
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/videoFrame"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="16dp"
+        android:hint="Enter Recipient Email" />
+
+    <Button
+        android:id="@+id/sendButton"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_below="@id/emailEditText"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="16dp"
+        android:text="Send to Email" />
+
+</RelativeLayout>
